@@ -43,7 +43,7 @@ This project is divided into two main components:
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/roxm337/nmap-scanner.git
+   git clone https://github.com/roxm337/fl_scanner.git
    cd fl_scanner/backend
    ```
 
