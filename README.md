@@ -44,7 +44,7 @@ This project is divided into two main components:
 1. Clone the repository
    ```bash
    git clone https://github.com/roxm337/nmap-scanner.git
-   cd nmap-scanner/backend
+   cd fl_scanner/backend
    ```
 
 2. Create and activate a virtual environment
